@@ -1,0 +1,11 @@
+{
+  "name": "int-u2l1-23-24-student-exercises-2",
+  "version": "1.0.0",
+  "description": "### 🎯 Objectives - Understand the purpose and structure of HTML. - Create HTML tags on a webpage.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": "",
+  "license": "ISC"
+}
